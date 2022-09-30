@@ -1,6 +1,7 @@
-## Hola
-### Me llamos Daniel
+## Primer repositorio creado
+### Autor: Marcelo Daniel Choque M.
 
 ***
-**Estoy probando Markdown**
-***# PrimerRepositorio
+**Existen fichero a, b, c**
+**No quiero subir esos ficheros**
+***
